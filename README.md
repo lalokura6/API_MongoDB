@@ -1,4 +1,4 @@
-# API RESTful para una Pokédex
+# API RESTful con MongoDB
 
 Aplicación creada con JAVASCRIPT y db-local
 
