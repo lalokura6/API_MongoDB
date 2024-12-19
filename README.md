@@ -42,15 +42,15 @@ Aplicación creada con JAVASCRIPT y db-local
 El nombre del usuario se encuntra asociado al pokemon creado
 
 {
-        "_id": "6763768c47672cd3e2169a17",
-        "name": "pikachu-adams",
-        "type": "efectos",
-        "level": 60,
+        "_id": "",
+        "name": "",
+        "type": "",
+        "level": ,
         "trainerId": {
-            "_id": "6763760f47672cd3e2169a14",
-            "username": "adams"
+            "_id": "",
+            "username": ""
         },
-        "createdAt": "2024-12-19T01:27:40.703Z",
-        "updatedAt": "2024-12-19T01:27:40.703Z",
+        "createdAt": "",
+        "updatedAt": "",
         "__v": 0
     }
