@@ -21,7 +21,7 @@ Aplicación creada con JAVASCRIPT y db-local
 - Eliminar Pokémon: DELETE /pokemon/:id
 
 
-3. Copiar y completar para crear un usuario (http://localhost:3000/auth/register) :
+3. Copiar y completar para crear un usuario -POST- (http://localhost:3000/auth/register) :
 
   {
       "username": "",
@@ -30,7 +30,7 @@ Aplicación creada con JAVASCRIPT y db-local
   }
 
 
-4. Copiar y completar para crear un pokemon (http://localhost:3000/pokemon):
+4. Copiar y completar para crear un pokemon -POST- (http://localhost:3000/pokemon):
 
   {
     "name": "",
@@ -38,7 +38,8 @@ Aplicación creada con JAVASCRIPT y db-local
     "level": "",
 }
 
-5. El resultado al ver http://localhost:3000/pokemon:
+5. El resultado al ver -GET- (http://localhost:3000/pokemon):
+El nombre del usuario se encuntra asociado al pokemon creado
 
 {
         "_id": "6763768c47672cd3e2169a17",
